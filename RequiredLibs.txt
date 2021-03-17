@@ -1,0 +1,8 @@
+cmu_time_awb
+cmu_us_kal
+cmudict04
+cmulex
+cmutimelex
+en_us
+freetts
+freetts-jsapi10
